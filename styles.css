@@ -1,0 +1,68 @@
+body{
+    background-image: url("assets/topography.png");
+    margin: 0px;
+    font-size: 20px;
+}
+
+.nav {
+    background-color: #333333;
+    overflow: hidden;
+    padding: 0% 10%;
+  }
+  
+.nav a {
+    text-transform: uppercase;
+    color: #ff0099;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+    text-decoration: underline;
+}
+
+.navleft{
+    float: left;
+    padding-top: 8px;
+}
+.navright{
+    float: right;
+}
+
+.introdution{
+    padding: 5% 10% 3% 10%;
+}
+
+.name{
+    font-size: 40px;
+    font-weight: bold;
+}
+.color{
+    color: #ff0099;
+    font-size: 25px;
+}
+
+.elvalaszto{
+    font-size: 25px;
+    padding-top: 50px;
+    color: grey;
+    text-align: center;
+}
+
+.def{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    padding-bottom: 30px;
+    margin-top: 0px;
+}
+
+.pad{
+    padding: 0% 10%;
+}
+.pad p{
+    margin-top: 10px;
+}
+
+.cim{
+    font-size: 24px;
+    font-weight: bold;
+}
